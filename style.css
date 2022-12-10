@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  display: inline-block;
+}
+h1 {
+  font-size: 80px;
+  font-weight: 300;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  margin-left: 10px;
+}
+p {
+  font-size: 25px;
+  margin-left: 10px;
+  margin-bottom: 12px;
+}
+label {
+  font-size: 16px;
+}
+.label1 {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 16px;
+  padding-top: 3px;
+  margin-bottom: 20px;
+}
+input {
+  display: inline-block;
+  margin-left: 10px;
+  height: 28px;
+  width: 200px;
+  font-size: 14px;
+}
+.label2 {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 24px;
+}
+select {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  width: 150px;
+  height: 24px;
+  font-size: 15px;
+}
+.divselect {
+  margin-top: 5px;
+}
+.radioclass {
+  font-size: 22px;
+  margin-left: 8px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.radio {
+  height: 14px;
+  width: 14px;
+  cursor: pointer;
+
+  /* margin-left: 10px; */
+  margin-right: 0px;
+  margin-top: 14px;
+  margin-bottom: 10px;
+}
+.div-check {
+  display: inline-block;
+  margin-top: 5px;
+}
+.check {
+  height: 14px;
+  width: 14px;
+  font-size: 10px;
+  /* margin-left: 10px; */
+  margin-right: 0px;
+  margin-top: 14px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.button {
+  width: 60px;
+  height: 25px;
+  border: 0px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-bottom: 8px;
+  margin-left: 1px;
+}
+textarea {
+  margin-left: 10px;
+  overflow-y: scroll;
+  height: 50px;
+  font-size: 14px;
+  line-height: 26px;
+  height: 55px;
+  /* resize: none; */
+}
